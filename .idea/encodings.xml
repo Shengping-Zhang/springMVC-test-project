@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springMvc4.x-advice" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springMvc4.x-annotation" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springMvc4.x-fileUpload" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springMvc4.x-httpMessageConverter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springMvc4.x-interceptors" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springMvc4.x-pathMatchParameter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springMvc4.x-quickStart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springMvc4.x-serverSendEvent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springMvc4.x-servlet3" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springMvc4.x-staticResources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springMvc4.x-test" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springMvc4.x-viewController" charset="UTF-8" />
+  </component>
+</project>

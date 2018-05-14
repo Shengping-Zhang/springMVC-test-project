@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springMvc4.x-advice" />
+        <module name="springMvc4.x-annotation" />
+        <module name="springMvc4.x-fileUpload" />
+        <module name="springMvc4.x-httpMessageConverter" />
+        <module name="springMvc4.x-interceptors" />
+        <module name="springMvc4.x-pathMatchParameter" />
+        <module name="springMvc4.x-quickStart" />
+        <module name="springMvc4.x-serverSendEvent" />
+        <module name="springMvc4.x-servlet3" />
+        <module name="springMvc4.x-staticResources" />
+        <module name="springMvc4.x-test" />
+        <module name="springMvc4.x-viewController" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

@@ -69,6 +69,4 @@ Github项目地址：<a href="https://github.com/longjiazuo/springMvc4.x-project
 码云项目地址：<a href="http://git.oschina.net/longshiy/springMvc4.x-project/tree/master/springMvc4.x-test" target="_blank">springMvc4.x-test</a><br>
 文章地址：<a href="http://blog.longjiazuo.com/archives/1505" target="_blank">SpringMvc4.x高级配置(五):Spring MVC的测试</a><br>
 
-#### 附录:
-更多内容请阅读我的博客：
-<a href="http://blog.longjiazuo.com/" target="_blank">http://blog.longjiazuo.com/
+
